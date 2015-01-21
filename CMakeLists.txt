@@ -11,10 +11,10 @@ endif()
 
 link_directories(
   SQUIRREL3/lib
-)
+  )
 include_directories(${TARGET}
   SQUIRREL3/include
-)
+  )
 add_executable(${TARGET}
   main.cc
   ircsq.cc
