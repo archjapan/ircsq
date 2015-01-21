@@ -1,0 +1,10 @@
+{
+  "server": "irc.ircnet.ne.jp",
+  "port": "6660",
+  "user": "user",
+  "nick": "sq",
+  "host": "localhost",
+  "channels":["#sq"]
+}
+  
+
